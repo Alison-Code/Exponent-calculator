@@ -1,4 +1,4 @@
-
-    no = int(iput("Ete the number\n"))
-    n2  =intinput("Eer theexponenal numr\n"))
-    print(f"{n1} tothe pwer {no} is {no1**no2}")
+while(True):
+    no1 = int(input("Enter the number\n"))
+    no2  = int(input("Enter the exponential number\n"))
+    print(f"{no1} to the power {no2} is {no1**no2}")
